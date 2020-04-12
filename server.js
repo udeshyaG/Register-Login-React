@@ -1,10 +1,14 @@
 const express = require("express");
 const app = express();
+const connectDB = require("./config/db");
 
 //Importing the route files
 const contacts = require("./routes/contacts");
 const users = require("./routes/users");
 const auth = require("./routes/auth");
+
+//Connect To DataBase
+connectDB();
 
 app.get("/", (req, res) => {
   res.json({ msg: "Welcome to ContactKeeper API" });
