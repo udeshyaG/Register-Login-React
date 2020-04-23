@@ -5,7 +5,7 @@ Visit the link below to Check out the site
 
 ## Technology used
 ### React 
-  -for the front End.
+  - for the front End.
 
 ### NodeJS, ExpressJS 
   - for the back end.
