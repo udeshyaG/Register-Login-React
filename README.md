@@ -1,4 +1,4 @@
-# Full stack MERN app to register and login a user. Users can login to add contacts. 
+# Full stack MERN app to register and login a user.
 
 Visit the link below to Check out the site
 [Click here to visit site](https://blooming-plateau-79001.herokuapp.com/login)
