@@ -1,7 +1,6 @@
-# Full stack MERN app to register and login a user.
+# [Click here to visit site](https://blooming-plateau-79001.herokuapp.com/login)
 
-Visit the link below to Check out the site
-[Click here to visit site](https://blooming-plateau-79001.herokuapp.com/login)
+# Full stack MERN app to register and login a user.
 
 ## Technology used
 ### React 
